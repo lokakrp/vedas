@@ -1,0 +1,65 @@
+/* Importing custom fonts */
+@font-face {
+    font-family: 'Helvetica Neue Roman';
+    src: url('https://raw.githubusercontent.com/lokakrp/fonts/main/helvetica%20neue/HelveticaNeueRoman.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Medium';
+    src: url('https://raw.githubusercontent.com/lokakrp/fonts/main/helvetica%20neue/HelveticaNeueMedium.otf') format('opentype');
+}
+
+/* */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Helvetica Neue Roman', sans-serif;
+    background-color: #f7f0e6; 
+    color: #333; 
+    line-height: 1.6; 
+}
+
+a {
+    text-decoration: none;
+    color: #5a8261;
+}
+
+a:hover {
+    color: peru; 
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-family: 'Helvetica Neue Medium', sans-serif; 
+    font-size: 1.5em;
+    color: #333; 
+    margin-bottom: 0.5em; 
+}
+
+hr {
+    border: none;
+    border-bottom: 1px solid #e2d2b4; 
+    margin: 1em 0; 
+}
+
+div {
+    padding: 1em; 
+}
+
+/* Adjustments for responsiveness */
+@media (max-width: 600px) {
+    h2 {
+        font-size: 1.3em;
+    }
+
+    p {
+        font-size: 0.9em; 
+    }
+}
