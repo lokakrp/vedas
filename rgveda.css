@@ -15,7 +15,6 @@ p {
     margin: calc(100% / 99);
     width: 50;
     word-wrap: break-word;
-    font-size:;
 }
 
 p.p {
@@ -23,6 +22,10 @@ p.p {
     word-wrap: break-word;
 }
 
+h1 {
+    font-family: "Helvetica Neue", "UD デジタル 教科書体 N-R", serif;
+    font-size: 50;
+}
 hr {
     border: none;
     border-bottom: 1px solid  #dfe2e2;
@@ -31,7 +34,6 @@ hr {
 
 div {
     font-family: "Helvetica Neue";
-    font-weight: ;
 }
 
 html {
@@ -107,4 +109,8 @@ color: peru;
 
 a.select:focus {
 color: peru;
+}
+
+.heading {
+
 }
