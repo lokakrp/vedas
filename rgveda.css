@@ -1,65 +1,110 @@
-/* Importing custom fonts */
+/* font import from my github */
 @font-face {
-    font-family: 'Helvetica Neue Roman';
+    font-family: 'Helvetica Neue';
     src: url('https://raw.githubusercontent.com/lokakrp/fonts/main/helvetica%20neue/HelveticaNeueRoman.otf') format('opentype');
 }
 
-@font-face {
-    font-family: 'Helvetica Neue Medium';
-    src: url('https://raw.githubusercontent.com/lokakrp/fonts/main/helvetica%20neue/HelveticaNeueMedium.otf') format('opentype');
-}
 
-/* */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html, body {
-    font-family: 'Helvetica Neue Roman', sans-serif;
-    background-color: #f7f0e6; 
-    color: #333; 
-    line-height: 1.6; 
-}
 
 a {
     text-decoration: none;
-    color: #5a8261;
-}
-
-a:hover {
-    color: peru; 
 }
 
 p {
-    margin-bottom: 1em;
+    font-family: "Helvetica Neue", "UD デジタル 教科書体 N-R", serif;
+    margin: calc(100% / 99);
+    width: 50;
+    word-wrap: break-word;
+    font-size:;
 }
 
-h2 {
-    font-family: 'Helvetica Neue Medium', sans-serif; 
-    font-size: 1.5em;
-    color: #333; 
-    margin-bottom: 0.5em; 
+p.p {
+    font-family: "Helvetica Neue", "UD デジタル 教科書体 N-R", serif;
+    word-wrap: break-word;
 }
 
 hr {
     border: none;
-    border-bottom: 1px solid #e2d2b4; 
-    margin: 1em 0; 
-}
+    border-bottom: 1px solid  #dfe2e2;
+    margin: calc(100% / 170);
+  }
 
 div {
-    padding: 1em; 
+    font-family: "Helvetica Neue";
+    font-weight: ;
 }
 
-/* Adjustments for responsiveness */
-@media (max-width: 600px) {
-    h2 {
-        font-size: 1.3em;
-    }
+html {
+    /* height: 100%; */
+    background-color: hwb(224 75% 16%);
+}
+.blind {
+    margin-right: calc(100% / 99);
+}
 
-    p {
-        font-size: 0.9em; 
-    }
+body {
+    height: 100%;
+    font-size: 100;
+    line-height: 1.5;
+    letter-spacing: 1;
+    max-width: 700px;
+
+
+    margin: auto;
+    margin-top: calc(100% / 99);
+    margin-bottom: calc(100% / 99);
+    padding: 60px;
+    color: #333;
+    background-color: #fafaff
+}
+
+/* links */
+
+#body {
+    height: 90%;
+    min-height: 90%;
+}
+
+body > #body {
+    height: auto;
+}
+
+a:link {
+color: #5a8261;
+}
+
+a:visited {
+color: #5a8261;
+}
+
+a:hover {
+color: peru;
+}
+
+a:active {
+color: peru;
+}
+
+a:focus {
+color: peru;
+}
+
+a.select:link {
+color: #333;
+}
+
+a.select:visited {
+color: #333;
+}
+
+a.select:hover {
+color: peru;
+}
+
+a.select:active {
+color: peru;
+}
+
+a.select:focus {
+color: peru;
 }
