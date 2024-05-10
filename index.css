@@ -1,0 +1,61 @@
+/* Font import */
+@font-face {
+    font-family: 'Helvetica Neue Roman';
+    src: url('https://raw.githubusercontent.com/lokakrp/fonts/main/helvetica%20neue/HelveticaNeueRoman.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Medium';
+    src: url('https://raw.githubusercontent.com/lokakrp/fonts/main/helvetica%20neue/HelveticaNeueMedium.otf') format('opentype');
+}
+
+/* Resetting body margin and padding */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica Neue Roman', Helvetica, Arial, sans-serif;
+    text-align: center;
+    background-color: #eeeaea; /* Light background color */
+}
+
+/* Title styling */
+h1 {
+    font-size: 70px; /* Large title font size */
+    font-weight: 590; /* Boldness */
+    margin-top: 200px; /* Space from the top */
+    color: #333; /* Dark gray color */
+    font-family: 'Helvetica Neue Medium', Helvetica, Arial, sans-serif;
+}
+
+/* Centered image styling */
+.center-image {
+    display: block; /* Force the image to display on its own line */
+    width: 130px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin: 20px auto; /* Center the image and add margins */
+}
+
+/* Navigation links */
+.nav-links {
+    display: block; /* Start new line for links */
+    margin-top: 40px; /* Spacing from the image */
+    text-align: center; /* Center the links */
+}
+
+.nav-links a {
+    text-decoration: none; /* No underline */
+    color: #0066cc; /* Blue color */
+    font-size: 18px; /* Font size */
+    padding: 10px; /* Padding */
+    transition: color 0.3s; /* Smooth color transition */
+}
+
+.nav-links a:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: #aa74b8; /* Color change on hover */
+}
+
+/* Hide audio controls */
+audio {
+    display: none; /* Hide the audio controls */
+}
