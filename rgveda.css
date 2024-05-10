@@ -112,5 +112,9 @@ color: peru;
 }
 
 .heading {
+    margin-bottom:5px;
+}
 
+.subtitle {
+    color: #777777;
 }
