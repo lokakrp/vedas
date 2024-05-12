@@ -30,6 +30,7 @@ hr {
     border: none;
     border-bottom: 1px solid  #dfe2e2;
     margin: calc(100% / 170);
+    margin-top: 10px;
   }
 
 .hymn {
