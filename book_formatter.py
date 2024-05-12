@@ -62,6 +62,12 @@ def format_book(input_file, output_file):
             
 
 format_book("book1.txt", "vedas/books/filtered_book1.json")
-#format_book("book2.txt", "vedas/books/filtered_book2.json")
-#format_book("book3.txt", "vedas/books/filtered_book3.json")
-#format_book("book4.txt", "vedas/books/filtered_book4.json")
+format_book("book2.txt", "vedas/books/filtered_book2.json")
+format_book("book3.txt", "vedas/books/filtered_book3.json")
+format_book("book4.txt", "vedas/books/filtered_book4.json")
+format_book("book5.txt", "vedas/books/filtered_book5.json")
+format_book("book6.txt", "vedas/books/filtered_book6.json")
+format_book("book7.txt", "vedas/books/filtered_book7.json")
+format_book("book8.txt", "vedas/books/filtered_book8.json")
+format_book("book9.txt", "vedas/books/filtered_book9.json")
+format_book("book10.txt", "vedas/books/filtered_book10.json")
