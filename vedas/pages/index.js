@@ -42,14 +42,6 @@ async function generateHymns(path, number) {
 }
 
 document.addEventListener("DOMContentLoaded", async function () {
-  await generateHymns("books/filtered_book1.json",1);
-  await generateHymns("books/filtered_book2.json",2);
-  await generateHymns("books/filtered_book3.json",3);
-  await generateHymns("books/filtered_book4.json",4);
-  await generateHymns("books/filtered_book5.json",5);
-  await generateHymns("books/filtered_book6.json",6);
-  await generateHymns("books/filtered_book7.json",7);
-  await generateHymns("books/filtered_book8.json",8);
-  await generateHymns("books/filtered_book9.json",9);
-  await generateHymns("books/filtered_book10.json",10);
+  const book = document.title.charAt(document.title.length - 1);
+  await generateHymns(`books/filtered_book${book}.json`, book);
 });
