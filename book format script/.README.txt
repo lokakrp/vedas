@@ -6,9 +6,9 @@ i then wanted to automate the process instead of writing out all of the hymns as
 
 // purpose 
 
-this script was made to filter and automate the process of compiling text automatically
+this python script was made to filter and automate the process of compiling text automatically
 i copied the text from the entire page of https://lrc.la.utexas.edu/books/rigveda/RV01, then added each book page into a text file
 book_formatter.py then removes the numbers at the beginning, adds A and B together to each line while adding the rest of the lines together
 a + b would then have a daṇḍa and then a double daṇḍa would be added to the rest of the lines that were added together
-it also reads the index from the number and is able to seperate each hymn and book from each other
-after this process, it then converts each book txt into a json file that is able to be added to the webpage 
+it also reads the index from the number and is able to seperate each hymn and book from each other: 9.072.04 is book 9, hymn 72
+after this process, it then converts each book txt into a json file that is able to be added to the webpage using a template made in HTML
