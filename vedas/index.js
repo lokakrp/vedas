@@ -6,7 +6,7 @@ async function fetchData(path) {
 }
 
 // Function to generate Hymns
-async function generateHymns(path) {
+async function generateHymns(path, number) {
   // Grab Templates
   const hymnTemplate = document.querySelector("#hymn-template");
   const hymns = document.querySelector("#hymns");
@@ -21,7 +21,7 @@ async function generateHymns(path) {
       let hymnHeading = hymn.querySelector(".hymn-heading");
 
       // Set the heading to the hymn number: Book 1, Hymn ()
-      hymnHeading.textContent = `Book 1, Hymn ${hymnData}`;
+      hymnHeading.textContent = `Book ${number}, Hymn ${hymnData}`;
 
       // For each verse in a hymn duplicate the paragraph elements
       for (let i = 0; i < book[hymnData].length; i++) {
@@ -41,15 +41,15 @@ async function generateHymns(path) {
   });
 }
 
-document.addEventListener("DOMContentLoaded", function () {
-  generateHymns("books/filtered_book1.json");
-  generateHymns("books/filtered_book2.json");
-  generateHymns("books/filtered_book3.json");
-  generateHymns("books/filtered_book4.json");
-  generateHymns("books/filtered_book5.json");
-  generateHymns("books/filtered_book6.json");
-  generateHymns("books/filtered_book7.json");
-  generateHymns("books/filtered_book8.json");
-  generateHymns("books/filtered_book9.json");
-  generateHymns("books/filtered_book10.json");
+document.addEventListener("DOMContentLoaded", async function () {
+  await generateHymns("books/filtered_book1.json",1);
+  await generateHymns("books/filtered_book2.json",2);
+  await generateHymns("books/filtered_book3.json",3);
+  await generateHymns("books/filtered_book4.json",4);
+  await generateHymns("books/filtered_book5.json",5);
+  await generateHymns("books/filtered_book6.json",6);
+  await generateHymns("books/filtered_book7.json",7);
+  await generateHymns("books/filtered_book8.json",8);
+  await generateHymns("books/filtered_book9.json",9);
+  await generateHymns("books/filtered_book10.json",10);
 });

@@ -32,6 +32,23 @@ hr {
     margin: calc(100% / 170);
   }
 
+.hymn {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: 1px solid  #dfe2e2;
+  margin: calc(100% / 170);
+  padding-bottom: 1em;
+}
+
+
 div {
     font-family: "Helvetica Neue";
 }

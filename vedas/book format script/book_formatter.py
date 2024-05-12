@@ -3,7 +3,7 @@ import json
 def format_book(input_file, output_file):
     bookDict = {}
     # Opens the raw book text file
-    with open(input_file, "r") as book_file:
+    with open(input_file, "r",encoding="utf-8") as book_file:
         verse = []
         hymnNum = 1
         completedLine = []
