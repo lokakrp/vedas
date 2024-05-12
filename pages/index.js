@@ -42,6 +42,6 @@ async function generateHymns(path, number) {
 }
 
 document.addEventListener("DOMContentLoaded", async function () {
-  const book = document.title.charAt(document.title.length - 1);
+  const book = document.title.split(" ")[document.title.split(" ").length - 1];
   await generateHymns(`books/filtered_book${book}.json`, book);
 });
