@@ -43,4 +43,13 @@ async function generateHymns(path) {
 
 document.addEventListener("DOMContentLoaded", function () {
   generateHymns("books/filtered_book1.json");
+  generateHymns("books/filtered_book2.json");
+  generateHymns("books/filtered_book3.json");
+  generateHymns("books/filtered_book4.json");
+  generateHymns("books/filtered_book5.json");
+  generateHymns("books/filtered_book6.json");
+  generateHymns("books/filtered_book7.json");
+  generateHymns("books/filtered_book8.json");
+  generateHymns("books/filtered_book9.json");
+  generateHymns("books/filtered_book10.json");
 });
