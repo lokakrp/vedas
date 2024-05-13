@@ -1,4 +1,694 @@
 1
+9.001.01a     svā́diṣṭhayā mádiṣṭhayā
+9.001.01b     pávasva soma dhā́rayā
+9.001.01c     índrāya pā́tave sutáḥ
+
+9.001.02a     rakṣohā́ viśvácarṣaṇir
+9.001.02b     abhí yónim áyohatam
+9.001.02c     drúṇā sadhástham ā́sadat
+
+9.001.03a     varivodhā́tamo bhava
+9.001.03b     máṃhiṣṭho vr̥trahántamaḥ
+9.001.03c     párṣi rā́dho maghónãm
+
+9.001.04a     abhí arṣa mahā́nãṃ
+9.001.04b     devā́nāṃ vītím ándhasā
+9.001.04c     abhí vā́jam utá śrávaḥ
+
+9.001.05a     tuvā́m áchā carāmasi
+9.001.05b     tád íd árthaṃ divé-dive
+9.001.05c     índo tuvé na āśásaḥ
+
+9.001.06a     punā́ti te parisrútaṃ
+9.001.06b     sómaṃ sū́ryasya duhitā́
+9.001.06c     vā́reṇa śáśvatā tánā
+
+9.001.07a     tám īm áṇvīḥ samaryá ā́
+9.001.07b     gr̥bhṇánti yóṣaṇo dáśa
+9.001.07c     svásāraḥ pā́riye diví
+
+9.001.08a     tám īṃ hinvanti agrúvo
+9.001.08b     dhámanti bākuráṃ dŕ̥tim
+9.001.08c     tridhā́tu vāraṇám mádhu
+
+9.001.09a     abhī́mám ághniyā utá
+9.001.09b     śrīṇánti dhenávaḥ śíśum
+9.001.09c     sómam índrāya pā́tave
+
+9.001.10a     asyéd índro mádeṣu ā́
+9.001.10b     víśvā vr̥trā́ṇi jighnate
+9.001.10c     śū́ro maghā́ ca maṃhate
+
+2
+9.002.01a     pávasva devavī́r áti
+9.002.01b     pavítraṃ soma ráṃhiyā
+9.002.01c     índram indo vŕ̥ṣā́ viśa
+
+9.002.02a     ā́ vacyasva máhi psáro
+9.002.02b     vŕ̥ṣendo dyumnávattamaḥ
+9.002.02c     ā́ yóniṃ dharṇasíḥ sadaḥ
+
+9.002.03a     ádhukṣata priyám mádhu
+9.002.03b     dhā́rā sutásya vedhásaḥ
+9.002.03c     apó vasiṣṭa sukrátuḥ
+
+9.002.04a     mahā́ntaṃ tvā mahī́r ánu
+9.002.04b     ā́po arṣanti síndhavaḥ
+9.002.04c     yád góbhir vāsayiṣyáse
+
+9.002.05a     samudró apsú māmr̥je
+9.002.05b     viṣṭambhó dharúṇo diváḥ
+9.002.05c     sómaḥ pavítre asmayúḥ
+
+9.002.06a     ácikradad vŕ̥ṣā hárir
+9.002.06b     mahā́n mitró ná darśatáḥ
+9.002.06c     sáṃ sū́riyeṇa rocate
+
+9.002.07a     gíras ta inda ójasā
+9.002.07b     marmr̥jyánte apasyúvaḥ
+9.002.07c     yā́bhir mádāya śúmbhase
+
+9.002.08a     táṃ tvā mádāya ghŕ̥ṣvaya
+9.002.08b     ulokakr̥tnúm† īmahe
+9.002.08c     táva práśastayo mahī́ḥ
+
+9.002.09a     asmábhyam indav indrayúr
+9.002.09b     mádhvaḥ pavasva dhā́rayā
+9.002.09c     parjányo vr̥ṣṭimā́m̐ iva
+
+9.002.10a     goṣā́ indo nr̥ṣā́ asi
+9.002.10b     aśvasā́ vājasā́ utá
+9.002.10c     ātmā́ yajñásya pūrviyáḥ
+
+3
+9.003.01a     eṣá devó ámartiyaḥ
+9.003.01b     parṇavī́r iva dīyati
+9.003.01c     abhí dróṇāni āsádam
+
+9.003.02a     eṣá devó vipā́ kr̥tó
+9.003.02b     áti hvárāṃsi dhāvati
+9.003.02c     pávamāno ádābhiyaḥ
+
+9.003.03a     eṣá devó vipanyúbhiḥ
+9.003.03b     pávamāna r̥tāyúbhiḥ
+9.003.03c     hárir vā́jāya mr̥jyate
+
+9.003.04a     eṣá víśvāni vā́riyā
+9.003.04b     śū́ro yánn iva sátvabhiḥ
+9.003.04c     pávamānaḥ siṣāsati
+
+9.003.05a     eṣá devó ratharyati
+9.003.05b     pávamāno daśasyati
+9.003.05c     āvíṣ kr̥ṇoti vagvanúm
+
+9.003.06a     eṣá víprair abhíṣṭuto
+9.003.06b     apó devó ví gāhate
+9.003.06c     dádhad rátnāni dāśúṣe
+
+9.003.07a     eṣá dívaṃ ví dhāvati
+9.003.07b     tiró rájāṃsi dhā́rayā
+9.003.07c     pávamānaḥ kánikradat
+
+9.003.08a     eṣá dívaṃ ví ā́sarat
+9.003.08b     tiró rájāṃsi áspr̥taḥ
+9.003.08c     pávamānaḥ suadhvaráḥ
+
+9.003.09a     eṣá pratnéna jánmanā
+9.003.09b     devó devébhiyaḥ sutáḥ
+9.003.09c     háriḥ pavítre arṣati
+
+9.003.10a     eṣá u syá puruvrató
+9.003.10b     jajñānó janáyann íṣaḥ
+9.003.10c     dhā́rayā pavate sutáḥ
+
+4
+9.004.01a     sánā ca soma jéṣi ca
+9.004.01b     pávamāna máhi śrávaḥ
+9.004.01c     áthā no vásyasas kr̥dhi
+
+9.004.02a     sánā jyótiḥ sánā súvar
+9.004.02b     víśvā ca soma saúbhagā
+9.004.02c     áthā no vásyasas kr̥dhi
+
+9.004.03a     sánā dákṣam utá krátum
+9.004.03b     ápa soma mŕ̥dho jahi
+9.004.03c     áthā no vásyasas kr̥dhi
+
+9.004.04a     pávītāraḥ punītána
+9.004.04b     sómam índrāya pā́tave
+9.004.04c     áthā no vásyasas kr̥dhi
+
+9.004.05a     tváṃ sū́riye na ā́ bhaja
+9.004.05b     táva krátvā távotíbhiḥ
+9.004.05c     áthā no vásyasas kr̥dhi
+
+9.004.06a     táva krátvā távotíbhir
+9.004.06b     jiyók paśyema sū́riyam
+9.004.06c     áthā no vásyasas kr̥dhi
+
+9.004.07a     abhí arṣa suāyudha
+9.004.07b     sóma dvibárhasaṃ rayím
+9.004.07c     áthā no vásyasas kr̥dhi
+
+9.004.08a     abhí arṣā́napacyuto
+9.004.08b     rayíṃ samátsu sāsahíḥ
+9.004.08c     áthā no vásyasas kr̥dhi
+
+9.004.09a     tuvā́ṃ yajñaír avīvr̥dhan
+9.004.09b     pávamāna vídharmaṇi
+9.004.09c     áthā no vásyasas kr̥dhi
+
+9.004.10a     rayíṃ naś citrám aśvínam
+9.004.10b     índo viśvā́yum ā́ bhara
+9.004.10c     áthā no vásyasas kr̥dhi
+
+5
+9.005.01a     sámiddho viśvátas pátiḥ
+9.005.01b     pávamāno ví rājati
+9.005.01c     prīṇán vŕ̥ṣā kánikradat
+
+9.005.02a     tánūnápāt pávamānaḥ
+9.005.02b     śŕ̥ṅge śíśāno arṣati
+9.005.02c     antárikṣeṇa rā́rajat
+
+9.005.03a     īḷéniyaḥ pávamāno
+9.005.03b     rayír ví rājati dyumā́n
+9.005.03c     mádhor dhā́rābhir ójasā
+
+9.005.04a     barhíḥ prācī́nam ójasā
+9.005.04b     pávamāna str̥ṇán háriḥ
+9.005.04c     devéṣu devá īyate
+
+9.005.05a     úd ā́tair jihate br̥hád
+9.005.05b     dvā́ro devī́r hiraṇyáyīḥ
+9.005.05c     pávamānena súṣṭutāḥ
+
+9.005.06a     suśilpé br̥hatī́ mahī́
+9.005.06b     pávamāno vr̥ṣaṇyati
+9.005.06c     náktoṣā́sā ná darśaté
+
+9.005.07a     ubhā́ devā́ nr̥cákṣasā
+9.005.07b     hótārā daíviyā huve
+9.005.07c     pávamāna índro vŕ̥ṣā
+
+9.005.08a     bhā́ratī pávamānasya
+9.005.08b     sárasvatī íḷā mahī́
+9.005.08c     imáṃ no yajñám ā́ gaman
+9.005.08d     tisró devī́ḥ supéśasaḥ
+
+9.005.09a     tváṣṭāram agrajā́ṃ gopā́m
+9.005.09b     puroyā́vānam ā́ huve
+9.005.09c     índur índro vŕ̥ṣā háriḥ
+9.005.09d     pávamānaḥ prajā́patiḥ
+
+9.005.10a     vánaspátim pavamāna
+9.005.10b     mádhvā sám aṅgdhi dhā́rayā
+9.005.10c     sahásravalśaṃ háritam
+9.005.10d     bhrā́jamānaṃ hiraṇyáyam
+
+9.005.11a     víśve devāḥ svā́hākr̥tim
+9.005.11b     pávamānasya ā́ gata
+9.005.11c     vāyúr bŕ̥haspátiḥ sū́ryo
+9.005.11d     agnír índraḥ sajóṣasaḥ
+
+6
+9.006.01a     mandráyā soma dhā́rayā
+9.006.01b     vŕ̥ṣā pavasva devayúḥ
+9.006.01c     ávyo vā́reṣu asmayúḥ
+
+9.006.02a     abhí tyám mádiyam mádam
+9.006.02b     índav índra íti kṣara
+9.006.02c     abhí vājíno árvataḥ
+
+9.006.03a     abhí tyám pūrviyám mádaṃ
+9.006.03b     svānó° arṣa pavítra ā́
+9.006.03c     abhí vā́jam utá śrávaḥ
+
+9.006.04a     ánu drapsā́sa índava
+9.006.04b     ā́po ná pravátāsaran
+9.006.04c     punānā́ índram āśata
+
+9.006.05a     yám átyam iva vājínam
+9.006.05b     mr̥jánti yóṣaṇo dáśa
+9.006.05c     váne krī́ḷantam átyavim
+
+9.006.06a     táṃ góbhir vŕ̥ṣaṇaṃ rásam
+9.006.06b     mádāya devávītaye
+9.006.06c     sutám bhárāya sáṃ sr̥ja
+
+9.006.07a     devó devā́ya dhā́rayā
+9.006.07b     índrāya pavate sutáḥ
+9.006.07c     páyo yád asya pīpáyat
+
+9.006.08a     ātmā́ yajñásya ráṃhiyā
+9.006.08b     suṣvāṇáḥ pavate sutáḥ
+9.006.08c     pratnáṃ ní pāti kā́viyam
+
+9.006.09a     evā́ punāná indrayúr
+9.006.09b     mádam madiṣṭha vītáye
+9.006.09c     gúhā cid dadhiṣe gíraḥ
+
+7
+9.007.01a     ásr̥gram índavaḥ pathā́
+9.007.01b     dhármann r̥tásya suśríyaḥ
+9.007.01c     vidānā́ asya yójanam
+
+9.007.02a     prá dhā́rā mádhvo agriyó
+9.007.02b     mahī́r apó ví gāhate
+9.007.02c     havír havíṣṣu vándiyaḥ
+
+9.007.03a     prá yujó vācó agriyó
+9.007.03b     vŕ̥ṣā́va cakradad váne
+9.007.03c     sádmābhí satyó adhvaráḥ
+
+9.007.04a     pári yát kā́viyā kavír
+9.007.04b     nr̥mṇā́ vásāno árṣati
+9.007.04c     súvar vājī́ siṣāsati
+
+9.007.05a     pávamāno abhí spŕ̥dho
+9.007.05b     víśo rā́jeva sīdati
+9.007.05c     yád īm r̥ṇvánti vedhásaḥ
+
+9.007.06a     ávyo vā́re pári priyó
+9.007.06b     hárir váneṣu sīdati
+9.007.06c     rebhó vanuṣyate matī́
+
+9.007.07a     sá vāyúm índram aśvínā
+9.007.07b     sākám mádena gachati
+9.007.07c     ráṇā yó asya dhármabhiḥ
+
+9.007.08a     ā́ mitrā́váruṇā bhágam
+9.007.08b     mádhvaḥ pavanta ūrmáyaḥ
+9.007.08c     vidānā́ asya śákmabhiḥ
+
+9.007.09a     asmábhyaṃ rodasī rayím
+9.007.09b     mádhvo vā́jasya sātáye
+9.007.09c     śrávo vásūni sáṃ jitam
+
+8
+9.008.01a     eté sómā abhí priyám
+9.008.01b     índrasya kā́mam akṣaran
+9.008.01c     várdhanto asya vīríyam
+
+9.008.02a     punānā́saś camūṣádo
+9.008.02b     gáchanto vāyúm aśvínā
+9.008.02c     té no dhāntu suvī́riyam
+
+9.008.03a     índrasya soma rā́dhase
+9.008.03b     punānó hā́rdi codaya
+9.008.03c     r̥tásya yónim āsádam
+
+9.008.04a     mr̥jánti tvā dáśa kṣípo
+9.008.04b     hinvánti saptá dhītáyaḥ
+9.008.04c     ánu víprā amādiṣuḥ
+
+9.008.05a     devébhyas tvā mádāya káṃ
+9.008.05b     sr̥jānám áti meṣíyaḥ
+9.008.05c     sáṃ góbhir vāsayāmasi
+
+9.008.06a     punānáḥ kaláśeṣu ā́
+9.008.06b     vástrāṇi aruṣó háriḥ
+9.008.06c     pári gávyāni avyata
+
+9.008.07a     maghóna ā́ pavasva no
+9.008.07b     jahí víśvā ápa dvíṣaḥ
+9.008.07c     índo sákhāyam ā́ viśa
+
+9.008.08a     vr̥ṣṭíṃ diváḥ pári srava
+9.008.08b     dyumnám pr̥thiviyā́ ádhi
+9.008.08c     sáho naḥ soma pr̥tsú dhāḥ
+
+9.008.09a     nr̥cákṣasaṃ tuvā vayám
+9.008.09b     índrapītaṃ suvarvídam
+9.008.09c     bhakṣīmáhi prajā́m íṣam
+
+9
+9.009.01a     pári priyā́ diváḥ kavír
+9.009.01b     váyāṃsi naptíyor hitáḥ
+9.009.01c     svānó° yāti kavíkratuḥ
+
+9.009.02a     prá-pra kṣáyāya pányase
+9.009.02b     jánāya júṣṭo adrúhe
+9.009.02c     vītī́ arṣa cániṣṭhayā
+
+9.009.03a     sá sūnúr mātárā śúcir
+9.009.03b     jātó jāté arocayat
+9.009.03c     mahā́n mahī́ r̥tāvŕ̥dhā
+
+9.009.04a     sá saptá dhītíbhir hitó
+9.009.04b     nadyò ajinvad adrúhaḥ
+9.009.04c     yā́ ékam ákṣi vāvr̥dhúḥ
+
+9.009.05a     tā́ abhí sántam ástr̥tam
+9.009.05b     mahé yúvānam ā́ dadhuḥ
+9.009.05c     índum indra táva vraté
+
+9.009.06a     abhí váhnir ámartiyaḥ
+9.009.06b     saptá paśyati vā́vahiḥ
+9.009.06c     krívir devī́r atarpayat
+
+9.009.07a     ávā kálpeṣu naḥ pumas
+9.009.07b     támāṃsi soma yódhiyā
+9.009.07c     tā́ni punāna jaṅghanaḥ
+
+9.009.08a     nū́ návyase návīyase
+9.009.08b     sūktā́ya sādhayā patháḥ
+9.009.08c     pratnavád rocayā rúcaḥ
+
+9.009.09a     pávamāna máhi śrávo
+9.009.09b     gā́m áśvaṃ rāsi vīrávat
+9.009.09c     sánā medhā́ṃ sánā súvaḥ
+
+10
+9.010.01a     prá svānā́so ráthā iva
+9.010.01b     árvanto ná śravasyávaḥ
+9.010.01c     sómāso rāyé akramuḥ
+
+9.010.02a     hinvānā́so ráthā iva
+9.010.02b     dadhanviré gábhastiyoḥ
+9.010.02c     bhárāsaḥ kāríṇām iva
+
+9.010.03a     rā́jāno ná práśastibhiḥ
+9.010.03b     sómāso góbhir añjate
+9.010.03c     yajñó ná saptá dhātŕ̥bhiḥ
+
+9.010.04a     pári svānā́sa° índavo
+9.010.04b     mádāya barháṇā girā́
+9.010.04c     sutā́ arṣanti dhā́rayā
+
+9.010.05a     āpānā́so vivásvato
+9.010.05b     jánanta uṣáso bhágam
+9.010.05c     sū́rā áṇvaṃ ví tanvate
+
+9.010.06a     ápa dvā́rā matīnã́m
+9.010.06b     pratnā́ r̥ṇvanti kārávaḥ
+9.010.06c     vŕ̥ṣṇo hárasa āyávaḥ
+
+9.010.07a     samīcīnā́sa āsate
+9.010.07b     hótāraḥ saptájāmayaḥ
+9.010.07c     padám ékasya píprataḥ
+
+9.010.08a     nā́bhā nā́bhiṃ na ā́ dade
+9.010.08b     cákṣuś cit sū́riye sácā
+9.010.08c     kavér ápatyam ā́ duhe
+
+9.010.09a     abhí priyā́ divás padám
+9.010.09b     adhvaryúbhir gúhā hitám
+9.010.09c     sū́raḥ paśyati cákṣasā
+
+11
+9.011.01a     úpāsmai gāyatā naraḥ
+9.011.01b     pávamānāya índave
+9.011.01c     abhí devā́m̐ íyakṣate
+
+9.011.02a     abhí te mádhunā páyo
+9.011.02b     átharvāṇo aśiśrayuḥ
+9.011.02c     deváṃ devā́ya devayú
+
+9.011.03a     sá naḥ pavasva śáṃ gáve
+9.011.03b     śáṃ jánāya śám árvate
+9.011.03c     śáṃ rājann óṣadhībhiyaḥ
+
+9.011.04a     babhráve nú svátavase
+9.011.04b     aruṇā́ya divispŕ̥śe
+9.011.04c     sómāya gāthám arcata
+
+9.011.05a     hástacyutebhir ádribhiḥ
+9.011.05b     sutáṃ sómam punītana
+9.011.05c     mádhāv ā́ dhāvatā mádhu
+
+9.011.06a     námaséd úpa sīdata
+9.011.06b     dadhnéd abhí śriṇītana°
+9.011.06c     índum índre dadhātana
+
+9.011.07a     amitrahā́ vícarṣaṇiḥ
+9.011.07b     pávasva soma śáṃ gáve
+9.011.07c     devébhyo anukāmakŕ̥t
+
+9.011.08a     índrāya soma pā́tave
+9.011.08b     mádāya pári ṣicyase
+9.011.08c     manaścín mánasas pátiḥ
+
+9.011.09a     pávamāna suvī́riyaṃ
+9.011.09b     rayíṃ soma rirīhi naḥ
+9.011.09c     índav índreṇa no yujā́
+
+12
+9.012.01a     sómā asr̥gram índavaḥ
+9.012.01b     sutā́ r̥tásya sā́dane
+9.012.01c     índrāya mádhumattamāḥ
+
+9.012.02a     abhí víprā anūṣata
+9.012.02b     gā́vo vatsáṃ ná mātáraḥ
+9.012.02c     índraṃ sómasya pītáye
+
+9.012.03a     madacyút kṣeti sā́dane
+9.012.03b     síndhor ūrmā́ vipaścít
+9.012.03c     sómo gaurī́ ádhi śritáḥ
+
+9.012.04a     divó nā́bhā vicakṣaṇó
+9.012.04b     ávyo vā́re mahīyate
+9.012.04c     sómo yáḥ sukrátuḥ kavíḥ
+
+9.012.05a     yáḥ sómaḥ kaláśeṣu ā́m̐
+9.012.05b     antáḥ pavítra ā́hitaḥ
+9.012.05c     tám índuḥ pári ṣasvaje
+
+9.012.06a     prá vā́cam índur iṣyati
+9.012.06b     samudrásyā́dhi viṣṭápi
+9.012.06c     jínvan kóśam madhuścútam
+
+9.012.07a     nítyastotro vánaspátir
+9.012.07b     dhīnā́m antáḥ sabardúghaḥ
+9.012.07c     hinvānó mā́nuṣā yugā́
+
+9.012.08a     abhí priyā́ divás padā́
+9.012.08b     sómo hinvānó arṣati
+9.012.08c     víprasya dhā́rayā kavíḥ
+
+9.012.09a     ā́ pavamāna dhāraya
+9.012.09b     rayíṃ sahásravarcasam
+9.012.09c     asmé indo suābhúvam
+
+13
+9.013.01a     sómaḥ punānó arṣati
+9.013.01b     sahásradhāro átyaviḥ
+9.013.01c     vāyór índrasya niṣkr̥tám
+
+9.013.02a     pávamānam avasyavo
+9.013.02b     vípram abhí prá gāyata
+9.013.02c     suṣvāṇáṃ devávītaye
+
+9.013.03a     pávante vā́jasātaye
+9.013.03b     sómāḥ sahásrapājasaḥ
+9.013.03c     gr̥ṇānā́ devávītaye
+
+9.013.04a     utá no vā́jasātaye
+9.013.04b     pávasva br̥hatī́r íṣaḥ
+9.013.04c     dyumád indo suvī́riyam
+
+9.013.05a     té naḥ sahasríṇaṃ rayím
+9.013.05b     pávantām ā́ suvī́riyam
+9.013.05c     svānā́° devā́sa índavaḥ
+
+9.013.06a     átyā hyānā́° ná hetŕ̥bhir
+9.013.06b     ásr̥graṃ vā́jasātaye
+9.013.06c     ví vā́ram ávyam āśávaḥ
+
+9.013.07a     vāśrā́ arṣanti índavo
+9.013.07b     abhí vatsáṃ ná dhenávaḥ
+9.013.07c     dadhanviré gábhastiyoḥ
+
+9.013.08a     júṣṭa índrāya matsaráḥ
+9.013.08b     pávamāna kánikradat
+9.013.08c     víśvā ápa dvíṣo jahi
+
+9.013.09a     apaghnánto árāvaṇaḥ
+9.013.09b     pávamānāḥ suvardŕ̥śaḥ
+9.013.09c     yónāv r̥tásya sīdata
+
+14
+9.014.01a     pári prā́siṣyadat kavíḥ
+9.014.01b     síndhor ūrmā́v ádhi śritáḥ
+9.014.01c     kārám bíbhrat puruspŕ̥ham
+
+9.014.02a     girā́ yádī sábandhavaḥ
+9.014.02b     páñca vrā́tā apasyávaḥ
+9.014.02c     pariṣkr̥ṇvánti dharṇasím
+
+9.014.03a     ā́d asya śuṣmíṇo ráse
+9.014.03b     víśve devā́ amatsata
+9.014.03c     yádī góbhir vasāyáte
+
+9.014.04a     niriṇānó ví dhāvati
+9.014.04b     jáhac cháryāṇi tā́nuvā
+9.014.04c     átrā sáṃ jighnate yujā́
+
+9.014.05a     naptī́bhir yó vivásvataḥ
+9.014.05b     śubhró ná māmr̥jé yúvā
+9.014.05c     gā́ḥ kr̥ṇvānó ná nirṇíjam
+
+9.014.06a     áti śritī́ tiraścátā
+9.014.06b     gavyā́ jigāti áṇviyā
+9.014.06c     vagnúm iyarti yáṃ vidé
+
+9.014.07a     abhí kṣípaḥ sám agmata
+9.014.07b     marjáyantīr iṣás pátim
+9.014.07c     pr̥ṣṭhā́ gr̥bhṇata vājínaḥ
+
+9.014.08a     pári divyā́ni mármr̥śad
+9.014.08b     víśvāni soma pā́rthivā
+9.014.08c     vásūni yāhi asmayúḥ
+
+15
+9.015.01a     eṣá dhiyā́ yāty áṇviyā
+9.015.01b     śū́ro ráthebhir āśúbhiḥ
+9.015.01c     gáchann índrasya niṣkr̥tám
+
+9.015.02a     eṣá purū́ dhiyāyate
+9.015.02b     br̥haté devátātaye
+9.015.02c     yátrāmŕ̥tāsa ā́sate
+
+9.015.03a     eṣá hitó ví nīyate
+9.015.03b     antáḥ śubhrā́vatā pathā́
+9.015.03c     yádī tuñjánti bhū́rṇayaḥ
+
+9.015.04a     eṣá śŕ̥ṅgāṇi dódhuvac
+9.015.04b     chíśīte yūthíyo vŕ̥ṣā
+9.015.04c     nr̥mṇā́ dádhāna ójasā
+
+9.015.05a     eṣá rukmíbhir īyate
+9.015.05b     vājī́ śubhrébhir aṃśúbhiḥ
+9.015.05c     pátiḥ síndhūnãm bhávan
+
+9.015.06a     eṣá vásūni pibdanā́
+9.015.06b     páruṣā yayivā́m̐ áti
+9.015.06c     áva śā́deṣu gachati
+
+9.015.07a     etám mr̥janti márjiyam
+9.015.07b     úpa dróṇeṣu āyávaḥ
+9.015.07c     pracakrāṇám mahī́r íṣaḥ
+
+9.015.08a     etám u tyáṃ dáśa kṣípo
+9.015.08b     mr̥jánti saptá dhītáyaḥ
+9.015.08c     suāyudhám madíntamam
+
+16
+9.016.01a     prá te sotā́ra oṇíyo
+9.016.01b     rásam mádāya ghŕ̥ṣvaye
+9.016.01c     sárgo ná takti étaśaḥ
+
+9.016.02a     krátvā dákṣasya rathíyam
+9.016.02b     apó vásānam ándhasā
+9.016.02c     goṣā́m áṇveṣu saścima
+
+9.016.03a     ánaptam apsú duṣṭáraṃ
+9.016.03b     sómam pavítra ā́ sr̥ja
+9.016.03c     punīhī́ndrāya pā́tave
+
+9.016.04a     prá punānásya cétasā
+9.016.04b     sómaḥ pavítre arṣati
+9.016.04c     krátvā sadhástham ā́sadat
+
+9.016.05a     prá tvā námobhir índava
+9.016.05b     índra sómā asr̥kṣata
+9.016.05c     mahé bhárāya kāríṇaḥ
+
+9.016.06a     punānó rūpé avyáye
+9.016.06b     víśvā árṣann abhí śríyaḥ
+9.016.06c     śū́ro ná góṣu tiṣṭhati
+
+9.016.07a     divó ná sā́nu pipyúṣī
+9.016.07b     dhā́rā sutásya vedhásaḥ
+9.016.07c     vŕ̥thā pavítre arṣati
+
+9.016.08a     tuváṃ soma vipaścítaṃ
+9.016.08b     tánā punāná āyúṣu
+9.016.08c     ávyo vā́raṃ ví dhāvasi
+
+17
+9.017.01a     prá nimnéneva síndhavo
+9.017.01b     ghnánto vr̥trā́ṇi bhū́rṇayaḥ
+9.017.01c     sómā asr̥gram āśávaḥ
+
+9.017.02a     abhí svānā́sa° índavo
+9.017.02b     vr̥ṣṭáyaḥ pr̥thivī́m iva
+9.017.02c     índraṃ sómāso akṣaran
+
+9.017.03a     átyūrmir matsaró mádaḥ
+9.017.03b     sómaḥ pavítre arṣati
+9.017.03c     vighnán rákṣāṃsi devayúḥ
+
+9.017.04a     ā́ kaláśeṣu dhāvati
+9.017.04b     pavítre pári ṣicyate
+9.017.04c     ukthaír yajñéṣu vardhate
+
+9.017.05a     áti trī́ soma rocanā́
+9.017.05b     róhan ná bhrājase dívam
+9.017.05c     iṣṇán sū́ryaṃ ná codayaḥ
+
+9.017.06a     abhí víprā anūṣata
+9.017.06b     mūrdhán yajñásya kārávaḥ
+9.017.06c     dádhānāś cákṣasi priyám
+
+9.017.07a     tám u tvā vājínaṃ náro
+9.017.07b     dhībhír víprā avasyávaḥ
+9.017.07c     mr̥jánti devátātaye
+
+9.017.08a     mádhor dhā́rām ánu kṣara
+9.017.08b     tīvráḥ sadhástham ā́sadaḥ
+9.017.08c     cā́rur r̥tā́ya pītáye
+
+18
+9.018.01a     pári svānó° giriṣṭhã́ḥ
+9.018.01b     pavítre sómo akṣãḥ
+9.018.01c     mádeṣu sarvadhā́ asi
+
+9.018.02a     tuváṃ vípras tuváṃ kavír
+9.018.02b     mádhu prá jātám ándhasaḥ
+9.018.02c     mádeṣu sarvadhā́ asi
+
+9.018.03a     táva víśve sajóṣaso
+9.018.03b     devā́saḥ pītím āśata
+9.018.03c     mádeṣu sarvadhā́ asi
+
+9.018.04a     ā́ yó víśvāni vā́riyā
+9.018.04b     vásūni hástayor dadhé
+9.018.04c     mádeṣu sarvadhā́ asi
+
+9.018.05a     yá imé ródasī mahī́
+9.018.05b     sám mātáreva dóhate
+9.018.05c     mádeṣu sarvadhā́ asi
+
+9.018.06a     pári yó ródasī ubhé
+9.018.06b     sadyó vā́jebhir árṣati
+9.018.06c     mádeṣu sarvadhā́ asi
+
+9.018.07a     sá śuṣmī́ kaláśeṣu ā́
+9.018.07b     punānó acikradat
+9.018.07c     mádeṣu sarvadhā́ asi
+
+19
+9.019.01a     yát soma citrám ukthíyaṃ
+9.019.01b     diviyám pā́rthivaṃ vásu
+9.019.01c     tán naḥ punāná ā́ bhara
+
+9.019.02a     yuváṃ hí stháḥ súvarpatī
+9.019.02b     índraś ca soma gópatī
+9.019.02c     īśānā́ pipyataṃ dhíyaḥ
+
+9.019.03a     vŕ̥ṣā punāná āyúṣu
+9.019.03b     stanáyann ádhi barhíṣi
+9.019.03c     háriḥ sán yónim ā́sadat
+
+9.019.04a     ávāvaśanta dhītáyo
+9.019.04b     vr̥ṣabhásyā́dhi rétasi
+9.019.04c     sūnór vatsásya mātáraḥ
+
+9.019.05a     kuvíd vr̥ṣaṇyántībhiyaḥ
+9.019.05b     punānó gárbham ādádhat
+9.019.05c     yā́ḥ śukráṃ duhaté páyaḥ
+
 9.019.06a     úpa śikṣāpatasthúṣo
 9.019.06b     bhiyásam ā́ dhehi śátruṣu
 9.019.06c     pávamāna vidā́ rayím

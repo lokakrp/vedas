@@ -2,24 +2,24 @@ import json
 
 def format_book(input_file, output_file):
     bookDict = {}
-    # Opens the raw book text file
+    # opens the raw book text file
     with open(input_file, "r",encoding="utf-8") as book_file:
         verse = []
         hymnNum = 1
         completedLine = []
-        # Get each line in book_file
+        # get each line in book_file
         for line in book_file:
-            line = line.strip() # Removes whitespace
-            if line.isnumeric() and line: # If line is a hymn number
+            line = line.strip() # removes whitespace
+            if line.isnumeric() and line: # if line is a hymn number
                 bookDict[int(line)] = []
                 hymnNum = int(line)
                 print(hymnNum)
-            elif line: # If line contains Sanskrit
+            elif line: #if line contains sanskrit
                 line = line.split("    ")
                 verse.append(line)
-            else: # If line is whitespace
+            else: # if line is whitespace
                 formattedLine = ""
-                # Goes through previous verse
+                # goes through previous verse
                 last_letter = ""
                 repeat = False
                 for count, i in enumerate(verse, 1):
@@ -59,15 +59,16 @@ def format_book(input_file, output_file):
 
         with open(output_file, "w") as target_file:
             json.dump(bookDict, target_file)
-            
 
-format_book("filtered_book1.txt", "vedas/books/filtered_book1.json")
-format_book("filtered_book2.txt", "vedas/books/filtered_book2.json")
-format_book("filtered_book3.txt", "vedas/books/filtered_book3.json")
-format_book("filtered_book4.txt", "vedas/books/filtered_book4.json")
-format_book("filtered_book5.txt", "vedas/books/filtered_book5.json")
-format_book("filtered_book6.txt", "vedas/books/filtered_book6.json")
-format_book("filtered_book7.txt", "vedas/books/filtered_book7.json")
-format_book("filtered_book8.txt", "vedas/books/filtered_book8.json")
-format_book("filtered_book9.txt", "vedas/books/filtered_book9.json")
-format_book("filtered_book10.txt", "vedas/books/filtered_book10.json")
+# json book format            
+
+#format_book("filtered_book1.txt", "../pages/books/filtered_book1.json")
+#format_book("filtered_book2.txt", "../pages/books/filtered_book2.json")
+#format_book("filtered_book3.txt", "../pages/books/filtered_book3.json")
+#format_book("filtered_book4.txt", "../pages/books/filtered_book4.json")
+#format_book("filtered_book5.txt", "../pages/books/filtered_book5.json")
+#format_book("filtered_book6.txt", "../pages/books/filtered_book6.json")
+#format_book("filtered_book7.txt", "../pages/books/filtered_book7.json")
+#format_book("filtered_book8.txt", "../pages/books/filtered_book8.json")
+format_book("filtered_book9.txt", "../pages/books/filtered_book9.json")
+#format_book("filtered_book10.txt", "../pages/books/filtered_book10.json")
