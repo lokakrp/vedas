@@ -17,8 +17,9 @@ p {
 }
 
 .hymn-verse:hover {
-  background-color: #f8f1f1;
-  margin-left: 5px;
+  background-color: #f8f5f5;
+  margin-left: 6px;
+  transition-duration: 0.05s;
 }
 
 p.p {
