@@ -17,7 +17,8 @@ p {
 }
 
 .hymn-verse:hover {
-  background-color: yellow;
+  background-color: #f8f1f1;
+  margin-left: 5px;
 }
 
 p.p {
@@ -30,18 +31,11 @@ h1 {
   font-size: 50;
 }
 hr {
-<<<<<<< Updated upstream
     border: none;
     border-bottom: 1px solid  #dfe2e2;
     margin: calc(100% / 170);
     margin-top: 10px;
   }
-=======
-  border: none;
-  border-bottom: 1px solid #dfe2e2;
-  margin: calc(100% / 170);
-}
->>>>>>> Stashed changes
 
 .hymn {
   display: block;
@@ -99,19 +93,11 @@ body > #body {
 }
 
 a:link {
-<<<<<<< Updated upstream
 color: #df514c;
 }
 
 a:visited {
 color: #df514c;
-=======
-  color: #5a8261;
-}
-
-a:visited {
-  color: #5a8261;
->>>>>>> Stashed changes
 }
 
 a:hover {
