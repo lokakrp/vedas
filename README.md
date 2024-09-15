@@ -1,4 +1,3 @@
-Here's a revised version for your GitHub README:
 <h1>Ṛgveda and Vedic Information</h1> 
 <p>This project features a comprehensive approach to handling Vedic texts, specifically the Ṛgveda. The system uses Python to process raw data obtained from the <a href="https://lrc.la.utexas.edu/books/rigveda/">
 UTexas metrically restored Ṛgveda</a>.</p>
