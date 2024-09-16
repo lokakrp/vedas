@@ -8,3 +8,6 @@ UTexas metrically restored Ṛgveda</a>.</p>
 <li><strong>Formatting Hymns:</strong> Once spliced, the hymns are formatted into a coherent structure, preserving their textual integrity and historical context.</li> 
 <li><strong>Conversion to JSON:</strong> The formatted hymns are then converted into JSON files. This step allows for efficient data handling and retrieval on the website.</li> 
 </ul> <h2>Website Integration</h2> <p>The JSON files containing the hymns are utilized by the website, which employs JavaScript to dynamically display the Vedic texts. This integration allows users to explore the Ṛgveda in an interactive and accessible format.</p>
+
+<h3>Check it out here!</h3>
+<a link href="https://veda.neocities.org/">Ṛgveda</a>
